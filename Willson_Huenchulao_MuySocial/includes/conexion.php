@@ -11,7 +11,7 @@ class Conectar {
 
 		 		try {
 
-		 			$conectar = new PDO("mysql:local=localhost;dbname=dbmuysocial","root","");
+		 			$conectar = new PDO("mysql:local=localhost;dbname=epiz_30565163_muysocial","epiz_30565163","u7M3K9hvnB");
 				    
                      $conectar->query("SET NAMES 'utf8'");
                     
